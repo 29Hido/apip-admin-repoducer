@@ -72,7 +72,6 @@ const Admin = () => {
           </CustomRoutes>
         ) : (
           <>
-            <Resource name="foo" />
           </>
         )}
       </HydraAdmin>
